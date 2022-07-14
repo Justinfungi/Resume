@@ -1,0 +1,215 @@
+body {
+    background: linear-gradient(to bottom, rgb(70, 45, 138), rgba(173, 64, 118, 0.4), rgba(82, 159, 181, 0.4));
+    font-size: 1.15em;
+    text-align: justify;
+    font-family: "Lato", sans-serif;
+}
+
+#services .services {
+	flex-direction: column;
+	text-align: center;
+	max-width: 1500px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+#services .section-title{
+    font-size: 4rem;
+    font-weight: 300;
+    color: black;
+    letter-spacing: .2rem;
+    text-align: center;
+    border: 2px solid crimson;
+    padding: 10px 30px;
+}
+#services .section-title span{
+    color: crimson;
+}
+#services .service-bottom {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#services .service-item {
+	flex-basis: 80%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 30px;
+	border-radius: 10px;
+	background-image: url(../IMG/services-item.webp);
+    background-size: cover;
+    opacity: 30%;
+    margin: 10px 5%;
+	position: relative;
+	z-index: 1;
+	overflow: hidden;
+}
+
+#services .service-item::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    opacity: 0.1;
+	z-index: -1;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font-family: "Sarabun", sans-serif;
+}
+
+#title_sub {
+    color: rgb(70, 45, 138);
+    text-decoration: underline;
+    text-align: justify;
+    border: 2px solid rgb(48, 11, 11);
+    margin: 50px;
+}
+
+.subtitle {
+    color: rgb(200, 148, 30);
+    font-family: "Sarabun", sans-serif;
+}
+
+.subtitle_sub {
+    text-decoration: underline;
+    text-align: justify;
+}
+
+.para-text {
+    width: 550px;
+    font-size: 40px text-align: justify;
+    text-indent: 30px;
+}
+
+#aboutme-img {
+    border: 2px solid rgb(48, 11, 11);
+    padding: 2px
+}
+
+#logo {
+    border: 2px solid rgb(70, 45, 138);
+}
+
+.container-head {
+    background: url("../IMG/color-choice2.png");
+    width: 100vw;
+    margin: 10px;
+    height: 80px;
+    opacity: 0.85;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-head-item {
+    background: url("../IMG/color-choice2.png"));
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    border: 6px solid rgb(255, 0, 0) width: 100px;
+    line-height: 50px;
+    margin: 10px;
+}
+
+.container-logo {
+    background: url("../IMG/color-choice2.png");
+    width: 100vw;
+    margin: 10px;
+    height: 70%;
+    opacity: 0.85;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-content {
+    width: 100vw;
+    margin: 10px;
+    height: 30vh;
+    opacity: 0.85;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-img {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    container-d align-items: center;
+}
+
+.container-d {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    border: 2px solid rgb(48, 11, 11);
+}
+
+.container-foot {
+    background: url("../IMG/color-choice3.png");
+    width: 100vw;
+    margin: 10px;
+    height: 250px;
+    opacity: 0.95;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-product-img {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid rgb(48, 11, 11);
+}
+
+.flex-gap {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+.flex-gap > div {
+  margin: 0px;
+}
+a {
+    text-decoration: none;
+}
+
+
+/* Hero Section */
+#hero {
+	background-image:url("../IMG/color-choice3.png");
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
+#hero::after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-color: purp;
+	opacity: 0.7;
+	z-index: -1;
+}
