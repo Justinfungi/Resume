@@ -26,6 +26,16 @@ showing the project i have done
   </tr>
 </table>
 
+### Finance
+
+<table>
+  <tr>
+    [EveGPT](https://github.com/Justinfungi/Fina4350-NLP/blob/main/Part4_EveGPT/README.md)
+    <td><img src="https://github.com/Justinfungi/Fina4350-NLP/blob/main/Inferences/Workflow1.png" width="400" height="200"></td>
+    <td><img src="https://github.com/Justinfungi/Fina4350-NLP/blob/main/Inferences/FinalPrez.gif" width="400" height="200"></td>
+  </tr>
+</table>
+
 ### Medicine
 <table>
   <tr>
