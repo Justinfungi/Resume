@@ -14,7 +14,8 @@ showing the project i have done
       https://github.com/Justinfungi/stable-dreamfusion 
       <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/Dreamfusion%20prez.gif" width="400" height="200"></td>
     <td style="text-align: center;">
-      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/castle-min.gif" width="200" height="200" style="display: block; margin: auto;"/></td>
+      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/castle-min.gif" width="180" height="180" style="display: block; margin: auto;"/>
+      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/castle-min.gif" width="180" height="180" style="display: block; margin: auto;"/></td>
   </tr>
   
   <!-- Row2 -->
