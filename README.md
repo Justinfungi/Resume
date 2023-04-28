@@ -6,11 +6,21 @@ showing the project i have done
 
 ### ComputerVision
 <table>
+
+<!-- Row1 -->
   <tr>
     <td>
       Text-to-3D: </br>
       https://github.com/Justinfungi/stable-dreamfusion 
-      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/Dreamfusion%20prez.gif" width="400" height="200">
+      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/Dreamfusion%20prez.gif" width="400" height="200"></td>
+    <td style="text-align: center;">
+      <img src="https://github.com/Justinfungi/Resume/blob/main/ComputerVision/castle-min.gif" width="200" height="200" style="display: block; margin: auto;"/></td>
+  </tr>
+  
+  <!-- Row2 -->
+  <tr>
+    <td>
+      <img src="https://github.com/Justinfungi/Resume/blob/main/a.jpg" width="400" height="200"></td>
     </td>
     <td>
       Object detection </br>
