@@ -35,6 +35,16 @@ showing the project i have done
     <td>
       <img src="https://github.com/Justinfungi/Resume/blob/main/a.jpg" width="400" height="200"></td>
   </tr>
+  
+  <!-- Row3 -->
+  <tr>
+    <td>
+      Yolov7: </br>
+      <img src="" width="400" height="200"></td>
+    <td style="text-align: center;">
+      <img src="" width="180" height="180" style="display: block; margin: auto;"/>
+      <img src="" width="180" height="180" style="display: block; margin: auto;"/></td>
+  </tr>
 </table>
 
 ### Finance
